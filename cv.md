@@ -1,8 +1,6 @@
 ---
-layout: page
+layout: file
 title: CV
 permalink: /cv/cv_20240101.pdf/
-main_nav: false
+main_nav: true
 ---
-
-![Header link]({{ site.baseurl }}/cv/cv_20240101.pdf/)
