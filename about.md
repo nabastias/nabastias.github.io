@@ -7,6 +7,8 @@ main_nav: true
 
 ![alt text]({{ site.baseurl }}/assets/profile.jpeg){:.profile}
 
+I am fifth-year economics student at Universidad de Chile aspiring to pursue an academic carreer. My fields of interest are labor economics and econometrics, with a focus on education and discrimination. Anyway I am genuinely curious, and if the research agenda holds relevance for public policy, I am highly interested. 
+
 Centrarium is a custom theme for Jekyll, made by [Ben Centra][bencentra] for his own blog. He'd be humbled if you liked it enough to use it as well! Installation and configuration instructions can be found in the [GitHub repository](https://github.com/bencentra/centrarium).
 
 This page is a good place to write about yourself, your project, your product, or whatever it is your site is for. You can replace the image above, or you can get rid of it entirely. 
