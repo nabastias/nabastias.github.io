@@ -10,11 +10,11 @@ exclude:
 
 # Site settings
 title: Nicolás Bastías Campos
-subtitle: "Economics student at Universidad de Chile"
+subtitle: "Economics Student at Universidad de Chile"
 email: nbastias@fen.uchile.cl
 name: Nicolás Bastías
 description: >
-  A simple yet classy theme for your Jekyll website or blog.
+  This webpage was created using Centrarium Theme.
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
