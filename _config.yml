@@ -47,8 +47,8 @@ jekyll-archives:
     tag: '/tag/:name/'
 
 # Layout
-navigation:
-  - {file: "CV", file: "/cv/cv_20240101.pdf"}
+#navigation:
+#  - {file: "CV", file: "/cv/cv_20240101.pdf"}
 
 # Disqus comments
 # disqus_shortname: bencentra
