@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://basti957.github.io/sitemap.xml
