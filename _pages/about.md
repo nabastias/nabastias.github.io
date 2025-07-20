@@ -6,7 +6,7 @@ subtitle: Predoctoral Research Fellow at Stanford University
 
 profile:
   align: left
-  image: prof_pic.jpg
+  image: headshot.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>366 Galvez St, Stanford, CA 94305</p>
@@ -16,7 +16,8 @@ news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
-I am a Predoctoral Research Fellow at the Stanford Institute for Economic Policy Research (SIEPR), with experience in policy analysis and causal methods for applied empirical research. My fields of interest include Applied Microeconomics and Econometrics, with a focus on development economics, social inequalities, and causal inference. I have previously worked on projects involving microeconometrics, machine learning, and the impact evaluation of microentrepreneurship programs in Chile.
+
+I am a Predoctoral Research Fellow at the Stanford Institute for Economic Policy Research (SIEPR), where I study the causes and consequences of health inequality under the mentorship of Professor Marcella Alsan. I obtained a B.A. in Economics from the Universidad de Chile. Before joining Professor Alsan’s research team, I worked on projects involving microeconometrics, machine learning, and the impact evaluation of microentrepreneurship programs in Chile (RCTs). I have experience in policy analysis and causal methods for applied empirical research, and I have served as a teaching assistant in courses on microeconomics, data analysis, and econometrics at the Universidad de Chile. My research interests include applied microeconomics and econometrics, with a focus on development economics, social inequalities, and causal inference.
 
 You can find my [CV][cv] here.
 
