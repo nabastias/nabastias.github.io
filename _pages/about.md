@@ -20,10 +20,12 @@ social: false # includes social icons at the bottom of the page
 <div style="text-align: justify;">
   I am a Predoctoral Research Fellow at the Stanford Institute for Economic Policy Research (SIEPR), where I study the causes and consequences of health inequality under the mentorship of Professor Marcella Alsan. 
 </div>
+
   
 <div style="text-align: justify;">
   I obtained a B.A. in Economics (with honors) from the Universidad de Chile in 2024. Before joining Professor Alsan’s research team, I worked on projects involving microeconometrics, machine learning, and the impact evaluation of microentrepreneurship programs in Chile (RCTs). I have experience in policy analysis and causal methods for applied empirical research, and I have served as a teaching assistant in courses on microeconomics, data analysis, and econometrics at the Universidad de Chile. My research interests include applied microeconomics and econometrics, with a focus on development economics, social inequalities, and causal inference.
 </div>
+
 
 You can find my [CV][cv] here.
 
